@@ -17,13 +17,13 @@
 
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
-    <ModId></ModId>
-    <Version>1.0.0</Version>
+    <ModId>129482</ModId>
+    <Version>1.0.1</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
     <DisplayName>Polish Signs (WE-Module)</DisplayName>
     <ShortDescription>A WriteEverywhere-Module that give the ability to place, create or edit Polish Signs</ShortDescription>
-    <ForumLink></ForumLink>
+    <ForumLink>https://forum.paradoxplaza.com/forum/threads/polish-signs-we-module.1891566/</ForumLink>
     <GitHubLink>https://github.com/UnMaestro/Maestros-CS2-PolishSigns</GitHubLink>
     <YoutubeLink></YoutubeLink>
     <DiscordLink>https://discord.com/channels/1024242828114673724/1446097301775843488</DiscordLink>
@@ -104,6 +104,7 @@
     <Folder Include="Resources\layouts\" />
     <Folder Include="Resources\atlases\" />
     <Folder Include="Resources\objMeshes\" />
+    <Folder Include="Resources\fonts\" />
   </ItemGroup>
 
 

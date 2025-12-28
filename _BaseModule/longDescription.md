@@ -6,13 +6,14 @@ This is a **Write Everywhere module** that brings a collection of **Polish signs
 ---
 
 ##  Features
-- **Over 0 templates** for Easy import
-- **0 sign images** available  
-- Road Sign Types:
-	- **Traffic Signs** - Warning, prohibition, mandatory, and more  
-	- **Highway Signs** - Green signs for start, end, Junctions, over Lanes, next to lanes
-	- **Main Road Signs** - Blue signs for CityEntry, Direction Arrows, Junctions, over Lanes, next to lanes
-	- **Miscellaneous Signs and Symbols** - Icons and extra templates for flexible use  
+- **Over 84 templates** for Easy import
+- **242 sign images** available  
+- Road Sign Types: 
+	- **Motorway** - Blue Highway signs for start, end, Junctions, over Lanes, next to lanes and more
+	- **Expressway** - Green signs for Nationalroads, similar to Motorway Signs
+	- **Traffic Signs** - Warning, prohibition, mandatory, and more 
+	- **Extra/Other Signs** - Bordercrossing, Lane Signs, 
+	- **Miscellaneous** - Number Plates
 
 ---
 
@@ -51,14 +52,14 @@ The font is **included** and can be installed manually.
 ### How to install the font
 1. Click on the W Icon on the Top-Left
 2. Go to City Fonts 
-3.  Press **+** and click on the Puzzle-Piece().  
+3. Press **+** and click on the Puzzle-Piece.  
 4. Choose "MaestroPolishSign"
-6. Open x 
+6. Choose  "Drogowskaz.ttf"
 
 ---
 
 ## Check out the corrosponding Vanilla Sign Overrider or other Packs
-- [Polish Vanilla Overrider](https://mods.paradoxplaza.com/mods/123563/Windows)
+- [Polish Vanilla Overrider](https://mods.paradoxplaza.com/mods/127510/Windows)
 - [Other Packs](https://mods.paradoxplaza.com/authors/UnMaestro)
 
 ---
